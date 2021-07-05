@@ -1,5 +1,6 @@
 {
   "riceList": [
+    
     {
       "name": "Basmati Rice",
       "weight": 5,
@@ -14,6 +15,11 @@
       "name": "Brown Rice",
       "weight": 12,
       "price": 60
+    },
+    {
+      "name": "samba",
+      "weight": 15,
+      "price": 200
     }
   ],
   "pulseList": [
